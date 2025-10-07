@@ -11,4 +11,5 @@ Nhiệm vụ 3.1: Tạo nội dung học tập với Canva AI
 Sử dụng Canva AI để tạo infographic về một chủ đề công nghệ số (ví dụ: “Ứng dụng AI trong CNTT”).
 Nhiệm vụ 3.2: Đánh giá đạo đức khi sử dụng AI
 Phân tích cách sử dụng AI trong nhiệm vụ 3.1 theo nguyên tắc đạo đức.
+Phần thực hành có sử dụng nguồn từ Gemini AI, ChatGPT, Grok AI
 
